@@ -14,7 +14,7 @@ There are four data files used in this project:
 
 ### Important Caveats
 
-As only a subset of the data could be loaded to this repo, several functions will not run if different parameters than the ones in ```main.py\``` are passed. These are mentioned in the code. If you change these parameters, the code will throw errors. For the full sized files, contact me at ananyajegannathan@gmail.com.
+As only a subset of the data could be loaded to this repo, several functions will not run if different parameters than the ones in ```main.py``` are passed. These are mentioned in the code. If you change these parameters, the code will throw errors. For the full sized files, contact me at ananyajegannathan@gmail.com.
 
 ## Instructions
 
@@ -22,7 +22,7 @@ The *fancyimpute* library needs to be installed to run this code. This can be in
 
 ```pip install fancyimpute```
 
-Alternately, all the libraries needed to run this project can be found in requirements.txt. They can be installed at once by running
+Alternately, all the libraries needed to run this project can be found in ```requirements.txt```. They can be installed at once by running
 
 ```pip install -r requirements.txt```
 
