@@ -31,7 +31,7 @@ There are different functions in ```main.py ``` for running the recommender syst
 
 ## Details and Results
 
-For further insight into the theory behind the project and the results and conclusions, check out the Project Report.
+For further insight into the theory behind the project and the results and conclusions, check out the [Project Report](https://github.com/ananyajn/Book-Recommender-System/blob/master/ECE697_Final_Project_Report.pdf).
 
 ## Credits
 
